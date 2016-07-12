@@ -1,5 +1,7 @@
 # Angular Air podcast 2016-07-12 code
 
+## [LIVE VIDEO](https://www.youtube.com/watch?v=7fqWIYqr2q8)
+
 On the podcast, we walk through a series of changes to a sample angular 1 ui-router application.
 During these changes, we migrate to ui-router 1.0, then to a hybrid ng1/ng2 app, and finally migrate the app to Angular 2
 
